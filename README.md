@@ -87,7 +87,7 @@ Quattro-Shift/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Quattro-Shift.git
+git clone https://github.com/adil-junaid/Quattro-Shift.git
 ```
 
 ```bash
